@@ -1,0 +1,30 @@
+body {
+  background: #b89d7b;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  border-style:groove;
+  border-color:#634523;
+  border-width:thick;
+  color:white;
+  font-style:italic;
+  
+}
+
+h2{
+  border-style:double;
+  border-color:#634523;
+  border-width: thick;
+  color:white;
+  font-style:italic;
+}
+
+.img{
+  border-style: double;
+  border-width:thick;
+  width: 300px;  
+}
+ 

@@ -1,0 +1,23 @@
+body {
+  background: #8a6c45;
+  
+}
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  color: white;
+  font-style: italic;
+  border-style:groove;
+  border-color:#b89d7b;
+  border-width:thick;
+}
+
+.img{
+  width:300px;
+  border-style: double;
+  border-width:thick;
+  border-color:#b89d7b;
+}
